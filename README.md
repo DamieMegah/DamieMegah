@@ -1,20 +1,27 @@
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F33E3E&width=600&lines=Hi%2C+I'm+Atoyebi+Damilare+Moses;Full-Stack+Developer+%7C+Tech+Enthusiast;I+Build+Scalable+Digital+Solutions;Made+in+Nigeria+%F0%9F%87%B3%F0%9F%87%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=DAA520&width=650&lines=Hi%2C+I'm+Atoyebi+Damilare+Moses;Full-Stack+Developer+%7C+Tech+Enthusiast;I+Build+Scalable+Digital+Solutions;Made+in+Nigeria+%F0%9F%87%B3%F0%9F%87%AE)](https://git.io/typing-svg)
 
-<!-- Profile Intro -->
-### 🚀 Who Am I?
-A solution-driven developer who believes tech should **solve real problems, not just look fancy**.  
-I build **smart, scalable and profit-focused software** for business and everyday users.
+### ⚡ Who Am I?
+Solution–driven developer focused on building **products that make life easier and make businesses money**.  
+Clean logic, functional design, and profit-oriented innovation — that’s my playground.
 
-### 💼 What I Do
-- Full-stack Web Development  
-- Business-focused Software (POS, SaaS, Product Systems)  
-- UI/UX Design With Functional Thinking  
-- Automation & Optimization
+### 💼 Core Focus
+- Full-Stack Web Development  
+- SaaS & Business Tools (POS, Inventory, Booking, CRM)  
+- UI that **functions first**, looks fine second  
+- Performance + Optimization
 
-### 🧠 Mindset
-> I don’t just code features. I create results.  
-If it doesn’t make life easier or make money, count me out.
+### 🧠 My Build Philosophy
+> If it’s not solving a problem or generating value, it’s just decoration.
+
+### 🛠️ Tech Stack
+
+const Damie = {
+  languages: ["JavaScript", "HTML", "CSS"],
+  tools: ["React", "Node", "Firebase"],
+  mindset: ["Innovation", "Business Logic", "Problem Solving"],
+  workEthic: "Clean. Fast. Scalable."
+}If it doesn’t make life easier or make money, count me out.
 
 ### 🔧 Tech Stack & Skills
 
