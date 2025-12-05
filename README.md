@@ -1,5 +1,5 @@
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=DAA520&width=650&lines=Hi%2C+I'm+Atoyebi+Damilare+Moses;Full-Stack+Developer+%7C+Tech+Enthusiast;I+Build+Scalable+Digital+Solutions;Made+in+Nigeria+%F0%9F%87%B3%F0%9F%87%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=DAA520&width=650&lines=Hi%2C+I'm+DamieMegah;Full-Stack+Developer+%7C+Tech+Enthusiast;I+Build+Scalable+Digital+Solutions;Made+in+Nigeria+%F0%9F%87%B3%F0%9F%87%AE)](https://git.io/typing-svg)
 
 ### ⚡ Who Am I?
 Solution–driven developer focused on building **products that make life easier and make businesses money**.  
