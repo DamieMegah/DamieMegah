@@ -1,23 +1,23 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=DAA520&center=true&vCenter=true&width=700&lines=WELCOME+TO+DAMIE'S+DASHBOARD;INITIALIZING+TECH+WARRIOR...;FULL-STACK+DEVELOPER+UNLOCKED!+🚀;MISSION:+BUILDING+FOR+PROFIT;STATUS:+ACTIVE+IN+LAGOS+🇳🇬)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=DAA520&center=true&vCenter=true&width=700&lines=WELCOME+TO+DAMIE'S+DASHBOARD;INITIALIZING+TECH+WARRIOR...;FULL-STACK+DEVELOPER+UNLOCKED!+🚀;MISSION:+BUILDING+FOR+PROFIT;STATUS:+ACTIVE+MODE+💡)](https://git.io/typing-svg)
 
 ---
 
 ### 👤 PLAYER PROFILE
 | Attribute | Data |
 | :--- | :--- |
-| **👾 NAME** | **Atoyebi Damilare Moses** |
+| **👾 NAME** | **Atoyebi Damilare Megah** |
 | **⚔️ CLASS** | **Full-Stack Developer** |
-| **🎯 ORIGIN** | **Lagos, Nigeria** |
+| **🎯 ORIGIN** | **Africa, Earth** |
 | **💎 RANK** | **Solution Specialist** |
 
 ---
 
-### 📊 STRENGTH GAUGES (Power Level)
-**Logic Attack** ![Progress](https://geps.dev/progress/95?dangerColor=DAA520&warningColor=DAA520&color=DAA520)  
+### 📊 STRENGTH GAUGES (Power Level)  
 **UI Precision** ![Progress](https://geps.dev/progress/88?dangerColor=DAA520&warningColor=DAA520&color=DAA520)  
-**AI Integration** ![Progress](https://geps.dev/progress/94?dangerColor=DAA520&warningColor=DAA520&color=DAA520)  
+**AI Integration** ![Progress](https://geps.dev/progress/95?dangerColor=DAA520&warningColor=DAA520&color=DAA520)
+**Logic Attack**  )![Progress](https://geps.dev/progress/94?dangerColor=DAA520&warningColor=DAA520&color=DAA520) 
 **Clean Code Aura** ![Progress](https://geps.dev/progress/90?dangerColor=DAA520&warningColor=DAA520&color=DAA520)
 
 ---
