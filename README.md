@@ -17,34 +17,36 @@
 ### 📊 STRENGTH GAUGES (Power Level)
 **Logic Attack** ![Progress](https://geps.dev/progress/95?dangerColor=DAA520&warningColor=DAA520&color=DAA520)  
 **UI Precision** ![Progress](https://geps.dev/progress/88?dangerColor=DAA520&warningColor=DAA520&color=DAA520)  
-**Business Intelligence** ![Progress](https://geps.dev/progress/92?dangerColor=DAA520&warningColor=DAA520&color=DAA520)  
+**AI Integration** ![Progress](https://geps.dev/progress/94?dangerColor=DAA520&warningColor=DAA520&color=DAA520)  
 **Clean Code Aura** ![Progress](https://geps.dev/progress/90?dangerColor=DAA520&warningColor=DAA520&color=DAA520)
 
 ---
 
-### 🧩 TECH INVENTORY
+### 🧩 TECH INVENTORY (Level 2 Unlocked)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 <br>
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI_Integration-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ---
 
-### 🎮 MINI GAME: REPO DEFENDER
+### 🎮 MINI-GAME: THE BINARY TIME-LOCK
+**Mission:** Decode the current hour to prove your developer status! 
+1. Check the **current hour** on your clock (24-hour format).
+2. Convert it to **8-bit Binary** (e.g., 2:00 PM is 14 -> `00001110`).
+3. Click the "Verify" button to see if you're a true Tech Warrior!
+
+[![Verify Binary](https://img.shields.io/badge/VERIFY_LOGIC-CLICK_HERE-DAA520?style=for-the-badge&logo=ghost)](https://www.rapidtables.com/convert/number/decimal-to-binary.html)
+
+---
+
+### 🐍 REPO DEFENDER (Contribution Snake)
 ![Snake animation](https://github-readme-snake.vercel.app/api/github-snake?user=DamieMegah&color_dots=%23bfd6f6%2C%238dbdff%2C%2364a1f4%2C%234b91f1%2C%233c7dd9&color_snake=%23DAA520)
-
----
-
-### 📈 ACTIVE QUESTS
-* [x] **SaaS Systems** - *High Yield Reward*
-* [x] **POS + Business Tools** - *Efficiency Bonus*
-* [ ] **Uber Clone Mastery** - *In Progress...* 🚕
-* [ ] **Real-Life Problem Solving** - *Daily Task*
 
 ---
 
