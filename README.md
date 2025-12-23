@@ -15,9 +15,9 @@
 ---
 
 ### 📊 STRENGTH GAUGES (Power Level)  
-**UI Precision** ![Progress](https://geps.dev/progress/88?dangerColor=DAA520&warningColor=DAA520&color=DAA520)  
-**AI Integration** ![Progress](https://geps.dev/progress/95?dangerColor=DAA520&warningColor=DAA520&color=DAA520)
-**Logic Attack**  )![Progress](https://geps.dev/progress/94?dangerColor=DAA520&warningColor=DAA520&color=DAA520) 
+**UI Precision**  ![Progress](https://geps.dev/progress/95?dangerColor=DAA520&warningColor=DAA520&color=DAA520) 
+**AI Integration** ![Progress](https://geps.dev/progress/88?dangerColor=DAA520&warningColor=DAA520&color=DAA520) <br> 
+**Logic Attack**  ![Progress](https://geps.dev/progress/94?dangerColor=DAA520&warningColor=DAA520&color=DAA520) 
 **Clean Code Aura** ![Progress](https://geps.dev/progress/90?dangerColor=DAA520&warningColor=DAA520&color=DAA520)
 
 ---
