@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🚀 Damie’s Full-Stack Dashboard
+# 🚀 <span id="typing-header"></span>
 
-A professional portfolio and dashboard showcasing my skills as a Full-Stack Developer with expertise in modern web technologies, UI/UX, and solution-driven software development.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=DAA520&center=true&vCenter=true&width=700&lines=Welcome+to+Damie's+Dashboard;Full-Stack+Developer+|+Solution+Specialist;Building+Web+Applications+for+Impact)](https://git.io/typing-svg)
 
 ---
 
@@ -41,6 +41,16 @@ A professional portfolio and dashboard showcasing my skills as a Full-Stack Deve
 
 ---
 
+### 💼 PROJECTS & PORTFOLIO
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **Employee Management System** | Full-stack MERN app for managing employees with secure login & dashboard | [View Repo](https://github.com/DamieMegah/employee-dashboard) |
+| **Text Reader App** | AI-powered multi-language text reader for accessibility | [View Repo](https://github.com/DamieMegah/text-reader-app) |
+| **Shopping Platform** | Decentralized multi-store shopping & delivery system | [View Repo](https://github.com/DamieMegah/decentralized-marketplace) |
+| **Portfolio Website** | Personal portfolio showcasing projects and skills | [View Site](https://damie.dev) |
+
+---
+
 ### 📈 GITHUB STATISTICS
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DamieMegah&show_icons=true&theme=dark&bg_color=0D1117&title_color=DAA520&icon_color=DAA520&text_color=c9d1d9" />
@@ -55,3 +65,4 @@ A professional portfolio and dashboard showcasing my skills as a Full-Stack Deve
 - **Portfolio:** [damie.dev](https://damie.dev)  
 
 </div>
+
