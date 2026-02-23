@@ -45,10 +45,10 @@
 ### 💼 PROJECTS & PORTFOLIO
 | Project | Description | Link |
 | :--- | :--- | :--- |
-| **Employee Management System** | Full-stack MERN app for managing employees with secure login & dashboard | [View Repo](https://github.com/DamieMegah/employee-dashboard) |
-| **Text Reader App** | AI-powered multi-language text reader for accessibility | [View Repo](https://github.com/DamieMegah/text-reader-app) |
-| **Shopping Platform** | Decentralized multi-store shopping & delivery system | [View Repo](https://github.com/DamieMegah/decentralized-marketplace) |
-| **Portfolio Website** | Personal portfolio showcasing projects and skills | [View Site](https://damie.dev) |
+| **Employee Management System** | Full-stack MERN app for managing employees with secure login & dashboard | [View Repo](https://github.com/DamieMegah/MERN-STACK-SERVER ) |
+| **CampusNav+** | Interactive Live map academic improvement,platform for student navigation & chat | [View Repo](https://yctcampusnav.netlify.app) |
+| **Shopping Platform** | multi-store shopping & delivery system | [View Repo](https://github.com/DamieMegah/Exclusive-wears) |
+| **Portfolio Website** | Personal portfolio showcasing projects and skills | [View Site](https://damiemegah.github.io/portfolio/#) |
 
 ---
 
