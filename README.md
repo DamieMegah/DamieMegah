@@ -1,4 +1,4 @@
-<div align="center">
+<div >
 
 # 🚀 <span id="typing-header"></span>
 
