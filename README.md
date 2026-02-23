@@ -38,7 +38,7 @@
 ### 🎮 MINI-GAME: THE BINARY TIME-LOCK
 **Mission:** Decode the current hour to prove your developer status! 
 1. Check the **current hour** on your clock (24-hour format).
-2. Convert it to **8-bit Binary** (e.g., 2:00 PM is 14 -> `00001110`).
+2. Convert it to **8-bit Binary** (e.g., 2:00 PM is 14 → `00001110`).
 3. Click the "Verify" button to see if you're a true Tech Warrior!
 
 [![Verify Binary](https://img.shields.io/badge/VERIFY_LOGIC-CLICK_HERE-DAA520?style=for-the-badge&logo=ghost)](https://www.rapidtables.com/convert/number/decimal-to-binary.html)
