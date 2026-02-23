@@ -53,6 +53,18 @@
 ---
 
 ### 📈 GITHUB STATISTICS
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=DamieMegah&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=DamieMegah&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DamieMegah&show_icons=true" />
+</picture>
+
 <p align="center">
 [![DamieMegah's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamieMegah)](https://github.com/DamieMegah/github-readme-stats)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamieMegah&layout=compact&theme=dark&bg_color=0D1117&title_color=DAA520&icon_color=DAA520&text_color=c9d1d9" />
