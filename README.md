@@ -54,9 +54,7 @@
 
 ### 📈 GITHUB STATISTICS
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DamieMegah&show_icons=true&theme=dark" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DamieMegah&show_icons=true&theme=dark&bg_color=0D1117&title_color=DAA520&icon_color=DAA520&text_color=c9d1d9" />
+[![DamieMegah's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamieMegah)](https://github.com/DamieMegah/github-readme-stats)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamieMegah&layout=compact&theme=dark&bg_color=0D1117&title_color=DAA520&icon_color=DAA520&text_color=c9d1d9" />
 </p>
 
@@ -65,7 +63,7 @@
 ### 📫 CONTACT & CONNECT
 - **Email:** [damie@example.com](mailto:dareyjustice@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/damie](https://www.linkedin.com/in/damiemegah)  
-- **Portfolio:** [DamieMegah]([https://damie.dev](https://damiemegah.github.io/portfolio/#))  
+- **Portfolio:** [damiemegah.github.io/portfolio]([https://damie.dev](https://damiemegah.github.io/portfolio/#))  
 
 </div>
 
