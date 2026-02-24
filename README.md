@@ -6,7 +6,6 @@
 
 ---
 
-
 ### 👤 PROFILE
 | Attribute | Data |
 | :--- | :--- |
@@ -53,28 +52,52 @@
 ---
 
 ### 📈 GITHUB STATISTICS
+
+#### 📊 GitHub Profile Stats
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DamieMegah&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=DamieMegah&show_icons=true&theme=dark&bg_color=0D1117&title_color=DAA520&icon_color=DAA520&text_color=c9d1d9"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DamieMegah&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=DamieMegah&show_icons=true&title_color=DAA520&icon_color=DAA520"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=DamieMegah&show_icons=true" />
 </picture>
 
+#### 🔥 GitHub Streak Stats
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=DamieMegah&theme=dark&background=0D1117&ring=DAA520&fire=DAA520&currStreakLabel=DAA520"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=DamieMegah&theme=default&ring=DAA520&fire=DAA520&currStreakLabel=DAA520"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/user=DamieMegah" />
+</picture>
+
+#### 🧬 Most Used Languages
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamieMegah&layout=compact&theme=dark&bg_color=0D1117&title_color=DAA520&icon_color=DAA520&text_color=c9d1d9" />
 </p>
+
+#### 📌 GitHub Statistics Badges
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/DamieMegah?style=for-the-badge&logo=github&color=DAA520&logoColor=white)
+![GitHub User's stars](https://img.shields.io/github/stars/DamieMegah?style=for-the-badge&logo=github&color=DAA520&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=DamieMegah&style=for-the-badge&color=DAA520&label=PROFILE%20VIEWS)
+
+</div>
 
 ---
 
 ### 📫 CONTACT & CONNECT
 - **Email:** [damie@example.com](mailto:dareyjustice@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/damie](https://www.linkedin.com/in/damiemegah)  
-- **Portfolio:** [damiemegah.github.io/portfolio]([https://damie.dev](https://damiemegah.github.io/portfolio/#))  
+- **Portfolio:** [damiemegah.github.io/portfolio](https://damiemegah.github.io/portfolio/#)  
 
 </div>
-
