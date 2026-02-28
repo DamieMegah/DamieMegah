@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Damie's Full-Stack Dashboard
+#  Damie's  Dashboard
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=DAA520&center=true&vCenter=true&width=900&lines=Welcome+to+Damie's+Dashboard;Full-Stack+Developer+|+Solution+Specialist;Building+Web+Applications+for+Impact)](https://git.io/typing-svg)
 
