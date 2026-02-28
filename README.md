@@ -101,7 +101,7 @@
 ---
 
 ### 📫 CONTACT & CONNECT
-- **Email:** [damie@example.com](mailto:dareyjustice@gmail.com)  
+- **Email:** [damie@gmail.com](mailto:dareyjustice@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/damie](https://www.linkedin.com/in/damiemegah)  
 - **Portfolio:** [damiemegah.github.io/portfolio](https://damiemegah.github.io/portfolio/#)  
 
