@@ -15,7 +15,10 @@
 | **Specialization** | Web Applications & Scalable Systems |
 
 ---
-<img src="https://github.com/DamieMegah/play-gram/blob/main/src/assets/pc-view.png" alt="[https://raw.githubusercontent.com/.../img1.png]" width="300">
+### RECENT PROJECT
+<button>
+<img src="https://github.com/DamieMegah/play-gram/blob/main/src/assets/pc-view.png" alt="Play-gram-image" width="300">
+</button>button>
 
 ### 📊 SKILLS & PROFICIENCY
 | Skill | Proficiency |
