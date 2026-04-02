@@ -19,7 +19,8 @@
 <button>
 <img src="https://github.com/DamieMegah/play-gram/blob/main/src/assets/pc-view.png" alt="Play-gram-image" width="300">
 <img src="https://github.com/DamieMegah/play-gram/blob/main/src/assets/mobile-view.png" alt="Play-gram-image" width="300">
-<img src=" https://github.com/DamieMegah/finance-tracker/blob/Macbook-Air-localhost.webp" alt="finance-tracker" width="300">
+<img src="https://github.com/DamieMegah/finance-tracker/blob/Macbook-Air-localhost.webp" alt="finance-tracker" width="300">
+  
 </button>
 
 ### 📊 SKILLS & PROFICIENCY
