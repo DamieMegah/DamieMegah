@@ -18,7 +18,7 @@
 ### RECENT PROJECT
 <button>
 <img src="https://github.com/DamieMegah/play-gram/blob/main/src/assets/pc-view.png" alt="Play-gram-image" width="300">
-<img src="https://github.com/DamieMegah/play-gram/blob/main/src/assets/iPhone-12-PRO.webp" alt="Play-gram-image" width="300">
+<img src="https://github.com/DamieMegah/play-gram/blob/main/src/assets/iPhone-12-PRO.webp" alt="Play-gram-image" width="100">
 <img src="https://github.com/DamieMegah/finance-tracker/blob/main/iPad--finance-tracker.webp" alt="finance-tracker" width="200">
   
 </button>
