@@ -2,7 +2,7 @@
 
 #  Damie's  Dashboard
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=DAA520&center=true&vCenter=true&width=900&lines=Welcome+to+Damie's+Dashboard;Full-Stack+Developer+|+Solution+Specialist;Building+Web+Applications+for+Impact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=DAA520&center=true&vCenter=true&width=900&lines=Welcome+to+Damie's+Dashboard;Full-Stack+Developer+|+Solut[...]
 
 ---
 
@@ -17,9 +17,9 @@
 ---
 ### RECENT PROJECTs
 <button>
-<img src="https://github.com/DamieMegah/play-gram/blob/main/src/assets/iPhone-12-PRO.webp" alt="Play-gram-image" width="100">
-<img src="https://github.com/DamieMegah/finance-tracker/blob/main/iPad--finance-tracker.webp" alt="finance-tracker" width="180">
-<img src="https://github.com/DamieMegah/play-gram/blob/main/src/assets/pc-view.png" alt="Play-gram-image" width="350">
+<img src="https://raw.githubusercontent.com/DamieMegah/play-gram/main/src/assets/iPhone-12-PRO.webp" alt="Play-gram-image" width="100">
+<img src="https://raw.githubusercontent.com/DamieMegah/finance-tracker/main/iPad--finance-tracker.webp" alt="finance-tracker" width="180">
+<img src="https://raw.githubusercontent.com/DamieMegah/play-gram/main/src/assets/pc-view.png" alt="Play-gram-image" width="350">
 
 
   
@@ -85,7 +85,7 @@
     srcset="https://github-readme-streak-stats.herokuapp.com?user=DamieMegah&theme=default&ring=DAA520&fire=DAA520&currStreakLabel=DAA520"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-streak-stats.herokuapp.com/user=DamieMegah" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DamieMegah" />
 </picture>
 
 
